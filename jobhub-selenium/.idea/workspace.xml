@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0174ac74-0231-4d84-9e94-511162557ccd" name="Default Changelist" comment="" />
+    <list default="true" id="0174ac74-0231-4d84-9e94-511162557ccd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageNavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageNavigationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,38 +17,82 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jobhubXML/logintest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.6455774">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/basic/LoginTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/PageNavigationTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/basic/Login.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/basic/Login.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,12 +101,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/logintest.xml" />
         <option value="$PROJECT_DIR$/src/test/java/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basic/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basic/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageNavigationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml" />
       </list>
     </option>
   </component>
@@ -66,6 +124,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -77,11 +136,6 @@
             <path>
               <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="jobhubXML" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
@@ -98,6 +152,21 @@
               <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -105,24 +174,7 @@
               <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JobHubSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jobhub-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="jobhubXML" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,14 +185,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553384275757" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553462137823" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\School 2019\ECSE428\SEP\jobhub-selenium-master\jobhub-selenium\jobhub-selenium\src\test" />
       <recent name="E:\School 2019\ECSE428\SEP\jobhub-selenium\jobhubXML" />
     </key>
   </component>
@@ -156,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest">
+  <component name="RunManager" selected="TestNG.E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/HomePageSuite.xml">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -204,9 +260,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E:/School 2019/ECSE428/SEP/jobhub-selenium/jobhubXML/logintest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="jobhub-selenium" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/jobhubXML/logintest.xml" />
+    <configuration name="E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/HomePageSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -214,21 +270,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="jobhub-selenium" />
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="jobhub-selenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="basic.LoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -237,9 +282,9 @@
       </method>
     </configuration>
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="jobhub-selenium" />
+      <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="basic.LoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -247,11 +292,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="jobhub-selenium" />
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="METHOD_NAME" value="loginTest" />
+      <option name="MAIN_CLASS_NAME" value="basic.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageNavigationTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PageNavigationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PageNavigationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageNavigationTest.applicationsNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PageNavigationTest" />
+      <option name="METHOD_NAME" value="applicationsNavigationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageNavigationTest.postingsNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PageNavigationTest" />
+      <option name="METHOD_NAME" value="postingsNavigationTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -261,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.LoginTest.loginTest" />
-        <item itemvalue="TestNG.LoginTest (4)" />
-        <item itemvalue="TestNG.E:/School 2019/ECSE428/SEP/jobhub-selenium/jobhubXML/logintest.xml" />
-        <item itemvalue="TestNG.LoginTest (3)" />
+        <item itemvalue="TestNG.E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/HomePageSuite.xml" />
+        <item itemvalue="TestNG.PageNavigationTest" />
+        <item itemvalue="TestNG.PageNavigationTest.postingsNavigationTest" />
+        <item itemvalue="TestNG.PageNavigationTest (4)" />
+        <item itemvalue="TestNG.PageNavigationTest.applicationsNavigationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -283,66 +373,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest - 2019.03.23 at 18h 27m 24s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 14h 14m 01s.xml">
+      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_(1) - 2019.03.23 at 18h 33m 15s.xml">
-      <configuration name="LoginTest (1)" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 14h 14m 56s.xml">
+      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.03.23 at 18h 37m 05s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 14h 31m 55s.xml">
+      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_(3) - 2019.03.23 at 18h 58m 22s.xml">
-      <configuration name="LoginTest (3)" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 16h 37m 46s.xml">
+      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.03.23 at 18h 59m 20s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest - 2019.03.24 at 16h 46m 02s.xml">
+      <configuration name="PageNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="E__School_2019_ECSE428_SEP_jobhub-selenium_jobhubXML_logintest_xml - 2019.03.23 at 19h 04m 44s.xml">
-      <configuration name="E:/School 2019/ECSE428/SEP/jobhub-selenium/jobhubXML/logintest.xml" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest - 2019.03.24 at 16h 46m 43s.xml">
+      <configuration name="PageNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_(4) - 2019.03.23 at 19h 05m 20s.xml">
-      <configuration name="LoginTest (4)" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest_(4) - 2019.03.24 at 16h 47m 56s.xml">
+      <configuration name="PageNavigationTest (4)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.03.23 at 19h 06m 08s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest_postingsNavigationTest - 2019.03.24 at 17h 10m 12s.xml">
+      <configuration name="PageNavigationTest.postingsNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_loginTest - 2019.03.23 at 19h 26m 26s.xml">
-      <configuration name="LoginTest.loginTest" configurationId="TestNG" />
+    <history-entry file="PageNavigationTest - 2019.03.24 at 17h 10m 52s.xml">
+      <configuration name="PageNavigationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.03.23 at 19h 35m 40s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="E__School_2019_ECSE428_SEP_jobhub-selenium-master_jobhub-selenium_jobhub-selenium_src_test_jobhubXML_HomePageSuite_xml - 2019.03.24 at 17h 15m 29s.xml">
+      <configuration name="E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/HomePageSuite.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13219616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -353,20 +444,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobhubXML/logintest.xml">
+    <entry file="file://$PROJECT_DIR$/jobhub-selenium.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageNavigationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -422,7 +540,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>jobhub-selenium</last-edited>
+          <last-edited>JobHubSelenium</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -435,6 +553,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

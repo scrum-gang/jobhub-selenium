@@ -4,7 +4,8 @@
 <suite name="HomePageSuite">
     <test name="JobHub Login Test">
         <classes>
-            <class name="LoginTest"/>
+            <class name="basic.LoginTest"/>
+            <class name="PageNavigationTest"/>
         </classes>
     </test>
 </suite>
