@@ -1,2 +1,6 @@
-# jobhub-selenium
-Selenium tests for JobHub
+# Jobhub: Selenium testing 
+
+## Areas covererd
+* Login
+* Basic navigation
+* Jobhub Postings page, posting validation
