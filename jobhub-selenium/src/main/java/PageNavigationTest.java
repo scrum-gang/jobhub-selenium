@@ -12,6 +12,7 @@ public class PageNavigationTest {
         private WebDriver driver;
         private String jobhub = "https://jobhub.netlify.com/login";
         private String jobhubApp = "https://jobhub.netlify.com/applications";
+        private String jobhubPost = "https://jobhub.netlify.com/postings";
 
         //UPDATE THESE AS NEEDED
         public static String login = "laurent.chenet@mail.mcgill.ca";
@@ -43,9 +44,8 @@ public class PageNavigationTest {
             SoftAssert softAssert = new SoftAssert();
 
             String currentURL = driver.getCurrentUrl();
-            String expectedURL = "https://jobhub.netlify.com/applications";
 
-            softAssert.assertEquals(currentURL, expectedURL, "URL is not correct!");
+            softAssert.assertEquals(currentURL, jobhubApp, "URL is not correct!");
             softAssert.assertTrue(driver.findElement(By.xpath(
                     "//*[@id=\"root\"]/div[2]/div/div/div[3]/table/thead/tr/th[2]")).isDisplayed());
             softAssert.assertAll();
@@ -59,9 +59,8 @@ public class PageNavigationTest {
             SoftAssert softAssert = new SoftAssert();
 
             String currentURL = driver.getCurrentUrl();
-            String expectedURL = "https://jobhub.netlify.com/postings";
 
-            softAssert.assertEquals(currentURL, expectedURL, "URL is not correct!");
+            softAssert.assertEquals(currentURL, jobhubPost, "URL is not correct!");
             softAssert.assertTrue(driver.findElement(By.xpath(
                     "//*[@id=\"root\"]/div[2]/div/div[1]")).isDisplayed());
             softAssert.assertAll();

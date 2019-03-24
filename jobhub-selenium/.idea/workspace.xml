@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0174ac74-0231-4d84-9e94-511162557ccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PostingsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/jobhubXML/PostingsSuite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PageNavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageNavigationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,82 +17,71 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6455774">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/basic/LoginTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/PageNavigationTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/basic/Login.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/basic/Login.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basic/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PageNavigationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="72" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PostingsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/PostingsSuite">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,8 +102,10 @@
         <option value="$PROJECT_DIR$/src/main/java/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/basic/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/basic/Login.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageNavigationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/jobhubXML/PostingsSuite" />
         <option value="$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/PageNavigationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PostingsTest.java" />
       </list>
     </option>
   </component>
@@ -185,7 +176,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553462137823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553468174880" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -212,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/HomePageSuite.xml">
+  <component name="RunManager" selected="TestNG.PostingsTest.verifyPostingTest">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -303,17 +294,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageNavigationTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JobHubSelenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PageNavigationTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PageNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
@@ -325,23 +305,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageNavigationTest.applicationsNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PostingsTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PageNavigationTest" />
-      <option name="METHOD_NAME" value="applicationsNavigationTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="PostingsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageNavigationTest.postingsNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PostingsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PageNavigationTest" />
-      <option name="METHOD_NAME" value="postingsNavigationTest" />
+      <option name="MAIN_CLASS_NAME" value="PostingsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostingsTest.verifyPostingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JobHubSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PostingsTest" />
+      <option name="METHOD_NAME" value="verifyPostingTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -351,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PostingsTest.verifyPostingTest" />
+        <item itemvalue="TestNG.PostingsTest (1)" />
+        <item itemvalue="TestNG.PostingsTest" />
         <item itemvalue="TestNG.E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/HomePageSuite.xml" />
         <item itemvalue="TestNG.PageNavigationTest" />
-        <item itemvalue="TestNG.PageNavigationTest.postingsNavigationTest" />
-        <item itemvalue="TestNG.PageNavigationTest (4)" />
-        <item itemvalue="TestNG.PageNavigationTest.applicationsNavigationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -373,21 +363,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 14h 14m 01s.xml">
-      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 14h 14m 56s.xml">
-      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 14h 31m 55s.xml">
-      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageNavigationTest_applicationsNavigationTest - 2019.03.24 at 16h 37m 46s.xml">
-      <configuration name="PageNavigationTest.applicationsNavigationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageNavigationTest - 2019.03.24 at 16h 46m 02s.xml">
-      <configuration name="PageNavigationTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PageNavigationTest - 2019.03.24 at 16h 46m 43s.xml">
       <configuration name="PageNavigationTest" configurationId="TestNG" />
     </history-entry>
@@ -402,6 +377,21 @@
     </history-entry>
     <history-entry file="E__School_2019_ECSE428_SEP_jobhub-selenium-master_jobhub-selenium_jobhub-selenium_src_test_jobhubXML_HomePageSuite_xml - 2019.03.24 at 17h 15m 29s.xml">
       <configuration name="E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/HomePageSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostingsTest - 2019.03.24 at 18h 53m 16s.xml">
+      <configuration name="PostingsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostingsTest_verifyPostingTest - 2019.03.24 at 18h 53m 43s.xml">
+      <configuration name="PostingsTest.verifyPostingTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostingsTest_verifyPostingTest - 2019.03.24 at 18h 54m 21s.xml">
+      <configuration name="PostingsTest.verifyPostingTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostingsTest_(1) - 2019.03.24 at 18h 55m 00s.xml">
+      <configuration name="PostingsTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostingsTest_verifyPostingTest - 2019.03.24 at 18h 55m 57s.xml">
+      <configuration name="PostingsTest.verifyPostingTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -454,7 +444,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/basic/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -463,28 +453,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/basic/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageNavigationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/PostingsSuite">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/HomePageSuite.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageNavigationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="72" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PostingsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

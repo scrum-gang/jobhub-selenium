@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="HomePageSuite">
-    <test name="JobHub Login Test">
+    <test name="JobHub Navigation Test">
         <classes>
             <class name="basic.LoginTest"/>
             <class name="PageNavigationTest"/>
