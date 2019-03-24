@@ -4,7 +4,7 @@
 <suite name="PostingsSuite">
     <test name="JobHub Postings Test">
         <classes>
-
+            <class name="PostingsTest"/>
         </classes>
     </test>
 </suite>
