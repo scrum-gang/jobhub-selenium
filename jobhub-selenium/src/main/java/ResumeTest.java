@@ -11,7 +11,7 @@ public class ResumeTest {
 
     private WebDriver driver;
     private String jobhub = "https://jobhub.netlify.com/login";
-    private String jobhubRes = "";
+    private String jobhubRes = "https://jobhub.netlify.com/resume";
 
     //UPDATE THESE AS NEEDED
     public static String login = "laurent.chenet@mail.mcgill.ca";
@@ -37,6 +37,17 @@ public class ResumeTest {
     @Test
     public void resumeTest() throws InterruptedException {
 
+        driver.navigate().to(jobhubRes);
+        Thread.sleep(3000);
+
+        SoftAssert softAssert = new SoftAssert();
+
+        softAssert.assertTrue(driver.findElement(By.xpath("//*[@id=\"root\"]/div[2]/div/div/div/div[1]/div")).isDisplayed());
+        softAssert.assertTrue(driver.findElement(By.xpath("//*[@id=\"root\"]/div[2]/div/div/div/div[2]/input")).isDisplayed());
+        softAssert.assertTrue(driver.findElement(By.xpath("//*[@id=\"root\"]/div[2]/div/div/div/button")).isDisplayed());
+        softAssert.assertTrue(driver.findElement(By.xpath("//*[@id=\"root\"]/div[2]/div/div/div/table/thead/tr/th[1]")).isDisplayed());
+        softAssert.assertTrue(driver.findElement(By.xpath("//*[@id=\"root\"]/div[2]/div/div/div/table/thead/tr/th[2]")).isDisplayed());
+        softAssert.assertAll();
     }
 
     @AfterMethod

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0174ac74-0231-4d84-9e94-511162557ccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ResumeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ResumeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ResumeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ResumeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="299">
+              <caret line="48" column="74" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PostingsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="34" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="331">
+              <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -199,7 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553481354916" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553483102689" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -226,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LogoutTest.logoutTest">
+  <component name="RunManager" selected="TestNG.ResumeTest">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -306,17 +306,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JobHubSelenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="basic.LoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LogoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JobHubSelenium" />
       <extension name="coverage">
@@ -352,10 +341,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostingsTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ResumeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PostingsTest" />
+      <option name="MAIN_CLASS_NAME" value="ResumeTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -363,11 +352,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostingsTest.verifyPostingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ResumeTest.resumeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JobHubSelenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PostingsTest" />
-      <option name="METHOD_NAME" value="verifyPostingTest" />
+      <option name="MAIN_CLASS_NAME" value="ResumeTest" />
+      <option name="METHOD_NAME" value="resumeTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -377,11 +366,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ResumeTest" />
+        <item itemvalue="TestNG.ResumeTest.resumeTest" />
         <item itemvalue="TestNG.LogoutTest.logoutTest" />
         <item itemvalue="TestNG.LogoutTest" />
         <item itemvalue="TestNG.E:/School 2019/ECSE428/SEP/jobhub-selenium-master/jobhub-selenium/jobhub-selenium/src/test/jobhubXML/PostingsSuite.xml" />
-        <item itemvalue="TestNG.PostingsTest.verifyPostingTest" />
-        <item itemvalue="TestNG.PostingsTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -399,12 +388,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PostingsTest_verifyPostingTest - 2019.03.24 at 18h 53m 43s.xml">
-      <configuration name="PostingsTest.verifyPostingTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PostingsTest_verifyPostingTest - 2019.03.24 at 18h 54m 21s.xml">
-      <configuration name="PostingsTest.verifyPostingTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PostingsTest_(1) - 2019.03.24 at 18h 55m 00s.xml">
       <configuration name="PostingsTest (1)" configurationId="TestNG" />
     </history-entry>
@@ -429,12 +412,18 @@
     <history-entry file="LogoutTest_logoutTest - 2019.03.24 at 20h 16m 31s.xml">
       <configuration name="LogoutTest.logoutTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ResumeTest_resumeTest - 2019.03.24 at 23h 03m 02s.xml">
+      <configuration name="ResumeTest.resumeTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ResumeTest_resumeTest - 2019.03.24 at 23h 03m 34s.xml">
+      <configuration name="ResumeTest.resumeTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,7 +432,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -504,16 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PostingsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="34" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/jobhubXML/PostingsSuite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -541,10 +520,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PostingsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ResumeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="299">
+          <caret line="48" column="74" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
