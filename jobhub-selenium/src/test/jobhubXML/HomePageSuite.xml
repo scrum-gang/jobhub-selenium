@@ -5,6 +5,7 @@
     <test name="JobHub Navigation Test">
         <classes>
             <class name="basic.LoginTest"/>
+            <class name="basic.LogoutTest"/>
             <class name="PageNavigationTest"/>
         </classes>
     </test>
