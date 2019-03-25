@@ -4,3 +4,4 @@
 * Login
 * Basic navigation
 * Jobhub Postings page, posting validation
+* Logout
